@@ -17,7 +17,7 @@ Make sure you have installed the following:
 * [`gh`](https://cli.github.com/), the GitHub CLI.
   * This is optional too, but recommended.
 
-1. Clone the repo
+### 1. Clone the repo
 
 ```bash
 # with github CLI
@@ -27,35 +27,34 @@ gh repo clone baggiponte/dealroom-2024-polars
 git clone git@github.com:baggiponte/dealroom-2024-polars
 ```
 
-> **Note**
+> [!NOTE]
 >
 > 🎬 How to configure SSH
 >
 > Cloning over SSH is safer. Follow [this guide](https://www.youtube.com/watch?v=5o9ltH6YmtM).
 > Alternatively, you can follow the steps in [this](https://github.com/git-merge-workshops/simplify-signing-with-ssh/blob/main/exercises/01-setup-workstation.md) workshop of GitHub's.
 
-
-2. Install the dependencies
+### 2. Install the dependencies
 
 ```bash
 # with the command runner
 just install
 ```
 
-3. Open the slideshow locally
+### 3. Open the slideshow locally
 
 ```bash
 # with the command runner
 just preview
 ```
 
-4. Visit http://localhost:3030
+Visit http://localhost:3030
 
 ## 🤗 contributing
 
 ### Prerequisites
 
-* Install all of the the dependencies [above](,/README.md#%EF%B8%8F-how-to-run) and [`commitizen`](https://commitizen-tools.github.io/commitizen/). `commitizen` is a release management tool. It's used to release new versions.
+* Install all of the the dependencies [above](./README.md#%EF%B8%8F-how-to-run) and [`commitizen`](https://commitizen-tools.github.io/commitizen/). `commitizen` is a release management tool. It's used to release new versions.
 
 ### Release workflow
 
@@ -79,7 +78,7 @@ git checkout -b your-branch-name
 just test-release
 ```
 
-This will format the slides, try to build them and test whether a version bump is possibile.
+This will format the slides, try to build them and test whether a version bump is possible.
 
 ## 🙏 Credits
 

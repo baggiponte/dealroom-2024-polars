@@ -400,13 +400,18 @@ raw.select(
 And it works for up- and down-sampling date types too (temporal aggregation)!
 
 ---
-layout: intro
----
 
 # 🙏 Thank you!
 
 Please share your feedback! My address is lucabaggi [at] duck.com
 
-<div class="absolute right-5 top-5">
-<img height="150" width="150"  src="/qr-linkedin.svg">
+<div class="mt-10 flex justify-center gap-8">
+  <div class="text-center">
+    <img class="w-64 h-auto" src="/qr-linkedin.svg" alt="LinkedIn QR Code">
+    <p class="mt-2 text-sm">LinkedIn</p>
+  </div>
+  <div class="text-center">
+    <img class="w-64 h-auto" src="/qr-github.svg" alt="GitHub QR Code">
+    <p class="mt-2 text-sm">GitHub</p>
+  </div>
 </div>

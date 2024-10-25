@@ -81,10 +81,8 @@ just test-release
 
 This will format the slides, try to build them and test whether a version bump is possibile.
 
-> **Note**
->
-> Credits:
->
-> - [`slidev`](https://github.com/slidevjs/slidev) is an amazing framework to build slides from markdown and host them.
-> - [`just`](https://github.com/casey/just) is just a command runner.
-> - [`commitizen`](https://commitizen-tools.github.io/commitizen/) is a release management tool.
+## 🙏 Credits
+
+- [`slidev`](https://github.com/slidevjs/slidev) is an amazing framework to build slides from markdown and host them.
+- [`just`](https://github.com/casey/just) is just a command runner.
+- [`commitizen`](https://commitizen-tools.github.io/commitizen/) is a release management tool.

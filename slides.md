@@ -4,10 +4,10 @@ layout: cover
 highlighter: shiki
 colorSchema: light
 favicon: favicon/url
-title: 🐻‍❄️ Polars in Action
+title: "🐻‍❄️ Polars: Zero to Hero"
 ---
 
-# 🐻‍❄️ Polars in Action
+# 🐻‍❄️ Polars: Zero to Hero
 What it is, when to use it, and how to get started
 
 <div class="absolute bottom-10">

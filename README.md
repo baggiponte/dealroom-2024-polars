@@ -1,8 +1,8 @@
-# Polars In Action
+# Polars: Zero to Hero
 
 [![cookiecutter slidev](https://img.shields.io/badge/cookiecutter-slidev-D4AA00?logo=cookiecutter&logoColor=fff)](https://github.com/baggiponte/cookiecutter-slidev)
 
-Source code for the talk *Polars In Action* at Dealroom.
+Source code for the talk *Polars: Zero to Hero* at Dealroom.
 
 ## 🛩️ How to run
 
